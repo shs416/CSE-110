@@ -1,6 +1,1 @@
-# HEADER FOR MY GitHub PROJECT
-
-## SUB HEADER
-'''
-asdf
-'''
+[![Build Status](https://travis-ci.org/shs416/CSE-110.svg?branch=master)](https://travis-ci.org/shs416/CSE-110)
